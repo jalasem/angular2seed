@@ -25,6 +25,7 @@ You could download this project as a zip file or run the following command in yo
 
 > git clone https://github.com/jalasem/angular2seed.git your_app_name
 > cd your_app_name
+> npm install
 
 ## Running your app
 
